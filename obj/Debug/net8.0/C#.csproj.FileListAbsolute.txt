@@ -12,3 +12,4 @@ E:\AJAY DHAKAL\Class12\C#\obj\Debug\net8.0\refint\C#.dll
 E:\AJAY DHAKAL\Class12\C#\obj\Debug\net8.0\C#.pdb
 E:\AJAY DHAKAL\Class12\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
 E:\AJAY DHAKAL\Class12\C#\obj\Debug\net8.0\ref\C#.dll
+E:\AJAY DHAKAL\Class12\C#\obj\Debug\net8.0\C#.sourcelink.json
